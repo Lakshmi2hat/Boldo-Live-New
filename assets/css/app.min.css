@@ -1173,7 +1173,7 @@ section.icon-section {
 }
 
 .homepage {
-  background: #ffffff url(/assets/img/banner-bg.jpg) no-repeat;
+  background: #ffffff url(assets/img/banner-bg.jpg) no-repeat;
   background-size: 100%;
 }
 @media (max-width: 992px) {
